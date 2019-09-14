@@ -6,5 +6,5 @@
 
 ## CHALLENGES
 
-1. [https://github.com/josearquillo/HTB/blob/master/CHALLENGES/matrioska.pdf](URL "MATRIOSKA")
+1. [https://github.com/josearquillo/HTB/blob/master/CHALLENGES/README.md](URL "MATRIOSKA")
 
