@@ -6,5 +6,5 @@
 
 ## CHALLENGES
 
-1. MATRIOSKA [http://google.es] (URL "MATRIOSKA")
+1. [http://google.es](URL "MATRIOSKA")
 
